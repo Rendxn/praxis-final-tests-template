@@ -1,0 +1,22 @@
+{
+  "name": "final-homework-tests",
+  "version": "1.0.0",
+  "description": "Final homework tests for Praxis 2021-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rendxn/praxis-final-tests.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Santiago Rendon <santirg2000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rendxn/praxis-final-tests/issues"
+  },
+  "homepage": "https://github.com/Rendxn/praxis-final-tests#readme"
+}
